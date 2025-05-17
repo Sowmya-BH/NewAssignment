@@ -4,11 +4,9 @@
 
 
 ```markdown
-# Nexus.AI Chatbot is a secure, multi-LLM chatbot application with email-based authentication and conversation history.
+#  Nexus.AI Chatbot is a secure, multi-LLM chatbot application with email-based authentication and conversation history.
 
-
-
-## Features
+##  Features
 
 - 🔒 **Simple Email Authentication** (No password required)
 - 💬 **Multi-LLM Chat Interface** (Gemini, Groq)
