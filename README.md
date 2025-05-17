@@ -15,11 +15,10 @@
 - 📚 **Session History** (Track past conversations)
 - 🛢️ **Text-to-SQL Conversion** (Natural language to SQL queries)
 
-## Project Structure
-
 ```
 Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
 
+## Project Structure
 nexus-ai/
 
 ├── README.md
