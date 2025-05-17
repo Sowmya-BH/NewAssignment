@@ -6,7 +6,7 @@
 ```markdown
 # Nexus.AI Chatbot is a secure, multi-LLM chatbot application with email-based authentication and conversation history.
 
-Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
+
 
 ## Features
 
@@ -20,10 +20,12 @@ Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
 ## Project Structure
 
 ```
+Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
+
 nexus-ai/
 
 ├── README.md
-├── app.py               # Main authentication application
+├── LogIn.py               # Main authentication application
 ├── pages/
 │   └── myapp.py         # Chatbot application
 └── users.db             # SQLite database (auto-created)
