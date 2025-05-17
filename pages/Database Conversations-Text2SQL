@@ -133,6 +133,10 @@ def show_file_upload_section():
             del st.session_state.generated_sql
 
 # ====================== Modified Main Interface ======================
+if not st.session_state.get('login_successful', False):
+    st.warning("You must log in to access this page.")
+    st.stop()  # Stop execution here to prevent rendering the rest of the page
+
 
 # Add to your existing UI setup
 show_file_upload_section()
