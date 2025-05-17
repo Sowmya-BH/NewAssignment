@@ -14,6 +14,7 @@ A secure, multi-LLM chatbot application with email-based authentication and conv
 - ⚡ **Streaming Responses** (Real-time AI responses)
 - 📚 **Session History** (Track past conversations)
 - 🛢️ **Text-to-SQL Conversion** (Natural language to SQL queries)
+Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
 
 ## Project Structure
 
