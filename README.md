@@ -2,7 +2,7 @@ Here's a comprehensive README.md file for your project:
 
 ```markdown
 # Nexus.AI Chatbot with Authentication
-[Visit my app](https://nexusbot.streamlit.app/NexusAI)
+<a href="https://your-url.com" target="_blank">[Visit my app](https://nexusbot.streamlit.app/NexusAI)</a>
 
 A secure, multi-LLM chatbot application with email-based authentication and conversation history.
 
