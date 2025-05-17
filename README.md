@@ -3,7 +3,7 @@ Here's a comprehensive README.md file for your project:
 ```markdown
 # Nexus.AI Chatbot with Authentication
 
-https://nexusbot.streamlit.app/NexusAI 
+[Link Text](https://nexusbot.streamlit.app/NexusAI)
 
 A secure, multi-LLM chatbot application with email-based authentication and conversation history.
 
