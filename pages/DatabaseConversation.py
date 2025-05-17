@@ -1,7 +1,9 @@
 # ====================== New File Upload & SQL Functions ======================
 import streamlit as st
 
-
+# Initialize the chat history
+if 'chat_history' not in st.session_state:
+    st.session_state.chat_history = []
 
 
 def extract_schema_from_file(uploaded_file):
