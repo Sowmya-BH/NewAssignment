@@ -1,13 +1,12 @@
 
 
-Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
+
 
 
 ```markdown
-# Nexus.AI Chatbot with Authentication
-Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
+# Nexus.AI Chatbot is a secure, multi-LLM chatbot application with email-based authentication and conversation history.
 
-A secure, multi-LLM chatbot application with email-based authentication and conversation history.
+Check out the live app: [Nexus.ai](https://nexusbot.streamlit.app/NexusAI)
 
 ## Features
 
