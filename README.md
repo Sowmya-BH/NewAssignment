@@ -87,18 +87,6 @@ Edit `pages/myapp.py` to modify:
 - Memory settings
 - UI elements
 
-## Screenshots
-
-*(Add actual screenshots here)*
-
-1. **Login Screen**
-   ![Login Screen](screenshots/login.png)
-
-2. **Chat Interface**
-   ![Chat Interface](screenshots/chat.png)
-
-3. **Session History**
-   ![History](screenshots/history.png)
 
 ## Troubleshooting
 
