@@ -6,9 +6,9 @@
 ```markdown
 ##  Features
 
-- 🔒 **Simple Email Authentication** (No password required)
+- 🔒 **Simple Email Authentication** (Email to sign-in )
 - 💬 **Multi-LLM Chat Interface** (Gemini, Groq)
-- 🧠 **Conversation Memory** (Save/Load chat sessions)
+- 🧠 **Conversation Memory** (Save/Load chat to cache the results of previous conversations)
 - ⚡ **Streaming Responses** (Real-time AI responses)
 - 📚 **Session History** (Track past conversations)
 - 🛢️ **Text-to-SQL Conversion** (Natural language to SQL queries)
